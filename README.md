@@ -1,6 +1,6 @@
 # KNIME forum auto reply
 
-This repo contains 2 KNIME workflows.
+This repository contains 2 KNIME workflows.
 
 "KNIME forum.knwf" is the workflow to create the initial dataset.
 "Forum reply.knwf" is the workflow which publishes the topic suggestions and updates the initial dataset.
