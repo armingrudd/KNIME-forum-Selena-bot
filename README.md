@@ -22,7 +22,7 @@ Table Creator - node 200 (General terms): New general terms added.
 
 JSON Path - node 41: New path added. (Now gets topic key as well)
 
-Rule-based Row filter - node 134: Now match on topic keys instead of URLs. (This was changed because when a user may change the topic title that makes both new and prevois links valid, So if a topic title with one post is edited, the workflow wouldn't suggest the old URL now)
+Rule-based Row filter - node 134: Now match on topic keys instead of URLs. (This was changed because a user may change the topic title that makes both new and prevois links valid, So if a topic title with one post is edited, the workflow wouldn't suggest the old URL now)
 
 Column Expressions - node 197: All the expressions are now simplified.
 
