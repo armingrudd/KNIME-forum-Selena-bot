@@ -12,9 +12,9 @@ Many Thanks to KNIME team for the KNIME Server and Philipp Katz for the Selenium
 
 -------------------------------
 
-# Last changes:
+## Last changes:
 
-"Forum reply.knwf":
+###"Forum reply.knwf":
 
 File Reader: Replaced with a new one for the new CSV file.
 
@@ -40,9 +40,7 @@ Table Creator - node 200 (General terms): New general terms added
 
 Column Expressions - node 197: New special characters added to be replaced
 
----
-
-"KNIME forum.knwf":
+###"KNIME forum.knwf":
 
 Table Creator - node 200 (General terms): New general terms added.
 
@@ -58,8 +56,6 @@ Table Creator - node 200 (General terms): New general terms added
 
 Column Expressions - node 197: New special characters added to be replaced
 
----
-
-"Forum reply.knwf":
+###"Forum reply.knwf":
 
 Now has new column named "draft key"
