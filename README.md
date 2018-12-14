@@ -13,7 +13,6 @@ Many Thanks to KNIME team for the KNIME Server and Philipp Katz for the Selenium
 -------------------------------
 
 ## Last changes:
-
 ### "Forum reply.knwf":
 
 File Reader: Replaced with a new one for the new CSV file.
