@@ -10,6 +10,8 @@ This repository contains 2 KNIME workflows and 1 CSV file.
 
 Many Thanks to KNIME team for the KNIME Server and Philipp Katz for the Selenium nodes and also @Aswin for the Java code.
 
+-------------------------------
+
 Last changes to the workflows:
 
 "Forum reply.knwf":
