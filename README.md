@@ -12,7 +12,7 @@ Many Thanks to KNIME team for the KNIME Server and Philipp Katz for the Selenium
 
 -------------------------------
 
-#Last changes:
+# Last changes:
 
 "Forum reply.knwf":
 
