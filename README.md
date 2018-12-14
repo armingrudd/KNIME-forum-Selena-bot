@@ -30,7 +30,7 @@ New "Constant Value coulmn" added to include topic key.
 
 "GroupBy" nodes are edited to include topic key.
 
-Older updates for this workflow:
+###### Older updates for this workflow:
 
 Cell Splitters - nodes 108 & 117 (Converting terms from string to collection): From list to set (Now they keep unique terms)
 
@@ -50,7 +50,7 @@ Column Expressions - node 197: All the expressions are now simplified.
 
 "GroupBy" nodes are edited to include topic key.
 
-Older updates for this workflow:
+###### Older updates for this workflow:
 
 Table Creator - node 200 (General terms): New general terms added
 
