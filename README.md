@@ -40,6 +40,8 @@ Table Creator - node 200 (General terms): New general terms added
 
 Column Expressions - node 197: New special characters added to be replaced
 
+---
+
 "KNIME forum.knwf":
 
 Table Creator - node 200 (General terms): New general terms added.
@@ -55,6 +57,8 @@ Older updates for this workflow:
 Table Creator - node 200 (General terms): New general terms added
 
 Column Expressions - node 197: New special characters added to be replaced
+
+---
 
 "Forum reply.knwf":
 
