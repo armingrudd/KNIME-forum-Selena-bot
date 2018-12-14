@@ -4,7 +4,7 @@ This repository contains 2 KNIME workflows and 1 CSV file.
 
 "KNIME forum.knwf" is the workflow to create the initial dataset.
 
-"Forum reply.knwf" is the workflow which publishes the topic suggestions and updates the initial dataset. (The ""Send Keys" nodes 6 & 8 must be cofigured to have your username and password to login KNIME forum)
+"Forum reply.knwf" is the workflow which publishes the topic suggestions and updates the initial dataset. (The ""Send Keys" nodes 6 & 8 must be cofigured to have your username and password to login to KNIME forum)
 
 "forum.csv" is the initial dataset which is created by "KNIME forum.knwf" workflow and is used in "Forum reply.knwf" workflow.
 
