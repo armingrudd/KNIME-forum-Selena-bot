@@ -1,4 +1,4 @@
-# KNIME forum Selena bot
+# Selena bot to suggest similar topics in KNIME forum
 
 This repository contains 2 KNIME workflows and 1 CSV file.
 
