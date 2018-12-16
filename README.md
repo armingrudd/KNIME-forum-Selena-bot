@@ -1,4 +1,4 @@
-# KNIME forum auto reply
+# KNIME forum Selena bot
 
 This repository contains 2 KNIME workflows and 1 CSV file.
 
