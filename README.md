@@ -2,7 +2,7 @@
 
 This repository contains 2 KNIME workflows and 1 CSV file.
 
-"KNIME forum.knwf" is the workflow to create the initial dataset.
+"KNIME forum.knwf" is the workflow to create the initial dataset. (You may change the number of loops. The number of current available pages are 0 to 267 = 268 loops)
 
 "Forum reply.knwf" is the workflow which publishes the topic suggestions and updates the initial dataset. (You have to configure the "Send Keys" - nodes 206 & 205 and add your username and password to login to the KNIME forum)
 
